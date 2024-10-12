@@ -17,9 +17,6 @@ namespace iCare.Core.Editor {
         internal StateView(State state) : base(StateMachineEditor.Path + "StateView.uxml") {
             _state = state;
 
-            if (state == null) 
-                return;
-            
             viewDataKey = state.UniqueID;
             style.left = state.GetPosition().x;
             style.top = state.GetPosition().y;
