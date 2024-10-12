@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/iCare/Core/FSM/Editor/StateMachineEditor.uss?fileID=7433441132597879392&amp;guid=34fde6ddf3e83904480eea0daeba2223&amp;type=3#StateMachineEditor" />
+    <iCare.Core.Editor.StateMachineView focusable="false" style="flex-grow: 1;">
+        <ui:Label text="  iCareFSM" name="iCare" style="-unity-font-style: bold; -unity-text-align: upper-left; color: rgb(255, 255, 255); font-size: 31px; -unity-font-definition: url(&quot;project://database/Library/unity%20default%20resources?fileID=10102&amp;guid=0000000000000000e000000000000000&amp;type=0#LegacyRuntime&quot;); margin-top: 23px;" />
+    </iCare.Core.Editor.StateMachineView>
+</ui:UXML>

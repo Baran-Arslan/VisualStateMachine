@@ -1,0 +1,6 @@
+﻿{
+  "name": "iCare.Core.Editor",
+  "references": [
+    "GUID:36e6220a3957338438c4c7cd826f2c28"
+  ]
+}
