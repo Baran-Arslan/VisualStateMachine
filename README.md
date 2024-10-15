@@ -1,6 +1,7 @@
 # Unity HFSM with Graph View 🚀
 
-#Video 
+# Video
+
 [![Unity HFSM with Graph View](https://img.youtube.com/vi/mUIsRAAXgM0/0.jpg)](https://www.youtube.com/watch?v=mUIsRAAXgM0&t=6s)
 
 A State Machine (HFSM) developed using Graph View, which operates on the default Animator principle. Unlike the Animator, we can assign the desired conditions for transitions through the interface. States and conditions can obtain their dependencies either locally or globally through a service locator. The advantage of this is that we can create both isolated states and isolated conditions.
