@@ -1,6 +1,7 @@
 # Unity HFSM with Graph View 🚀
 
 # Video
+https://www.youtube.com/watch?v=mUIsRAAXgM0&t=6s
 
 [![Unity HFSM with Graph View](https://img.youtube.com/vi/mUIsRAAXgM0/0.jpg)](https://www.youtube.com/watch?v=mUIsRAAXgM0&t=6s)
 
